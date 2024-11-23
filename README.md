@@ -11,4 +11,13 @@ use{
 }
 ```
 
+## Usage
+
+Execute the following in the marodkwn code block describing the plantuml.
+```
+:PlantUMLAscii
+```
+
+![preview](./doc/preview.png)
+
 ## Requires
